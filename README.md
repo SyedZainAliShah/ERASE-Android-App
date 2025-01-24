@@ -1,3 +1,4 @@
 # ERASE App
  
-This is a robust android app made to detect and identify different types of trash and their recyclability using a TFlite model
+A mobile app that detects and classifies trash using a YOLOv4 model, converted to TensorFlow Lite (TFLite) for efficient on-device processing. It identifies waste types (plastic, paper, metal, etc.) and determines recyclability, helping users sort trash correctly and promote recycling.
+
