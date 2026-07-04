@@ -1,4 +1,4 @@
-# ♻️ ERASE — On-Device Trash Detection
+# ERASE — On-Device Trash Detection
 
 An Android app that detects and classifies waste in photos — plastic, paper, metal, and more — to help users sort trash correctly and promote recycling. A custom-trained object detection model runs **fully on-device** via TensorFlow Lite: no network connection or cloud API needed.
 
